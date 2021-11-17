@@ -5,7 +5,7 @@ This is a Time Series problem where, given a year and a month, the task is to pr
 
 The dataset used is the [International Airline Passengers Dataset](https://www.kaggle.com/andreazzini/international-airline-passengers), which is the equivalent of Iris dataset for Machine Learning or MNIST for Computer Vision. It is a low dimensional (only 2 columns) dataset:
 
-`Month` - Month for the observation (taken in the format `YYYY-MM`)
+`Month` - Month for the observation (taken in the format `YYYY-MM`) <br>
 `Passengers` - Number of international airline passengers travelling at the time.
 
 ## Network Architecture
